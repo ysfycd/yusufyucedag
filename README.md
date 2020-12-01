@@ -5,5 +5,5 @@
 <details open>
  <summary> :man_technologist: <b>My Github Stats</b>: </summary>
 <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyucedag&hide=css,python,html&theme=tokyonight">
+![Github stats](https://github-readme-stats.vercel.app/api?username=yusufyucedag&show_icons=true&theme=tokyonight)
 </details>
