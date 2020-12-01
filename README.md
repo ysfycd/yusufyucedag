@@ -2,8 +2,5 @@
 
 ### I am a software developer. I enjoy working in are Java and Spring Framework. :sweat_smile:
                                                                                                                                                  
-<details open>
- <summary> :man_technologist: <b>My Github Stats</b>: </summary>
-<br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yusufyucedag&show_icons=true&theme=tokyonight)
-</details>
+
