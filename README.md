@@ -2,8 +2,8 @@
 
 ### I am a software developer. I enjoy working in are Java and Spring Framework. :sweat_smile:
                                                                                                                                               
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyucedag&show_icons=true&theme=tokyonight)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyucedag&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyucedag)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yusufyucedag)](https://github.com/anuraghazra/github-readme-stats)
 
 
