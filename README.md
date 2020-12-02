@@ -2,7 +2,7 @@
 
 ### I am a software developer. I enjoy working in are Java and Spring Framework. :sweat_smile:
 
-<details open>
+<details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
